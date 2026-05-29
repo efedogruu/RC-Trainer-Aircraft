@@ -24,8 +24,7 @@ This project is a foam board RC training aircraft designed and built for learnin
 
 ## Gallery
 
-<img width="1128" height="981" alt="1" src="https://github.com/user-attachments/assets/99314aa5-04ff-433d-93c2-38c57c1564e3" />
-
+<img width="1128" height="981" alt="1" src="https://github.com/user-attachments/assets/8636af87-af7b-4415-8800-c17fde47ae73" />
 
 ## Objectives
 
